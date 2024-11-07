@@ -19,6 +19,8 @@ ydata-profiling = "^4.12.0"
 rich = "^13.9.4"
 pyod = "^2.0.2"
 seaborn = "^0.13.2"
+setuptools = "^75.3.0"
+tk = "^0.1.0"
 
 
 [build-system]
